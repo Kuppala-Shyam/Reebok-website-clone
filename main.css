@@ -1,0 +1,175 @@
+#main{
+    /* border: 2px solid blue; */
+    position: absolute;
+    top: 120px;
+}
+/* #section2{
+    /* border: 2px solid; *
+} */
+#shop{
+    padding-left: 30px;
+}
+#who{
+    /* border: 2px solid red; */
+    height: 120px;
+}
+#who h1{
+    /* border: 2px solid; */
+    margin-top: 40px;
+    padding-left: 10px;
+}
+#are{
+    /* border: 2px solid; */
+    display: flex;
+    margin-top:-50px ;
+}
+/* #are div{
+    /* border: 2px solid; 
+} */
+#are div img{
+    height: 410px;
+    width: 710px;
+}
+#new{
+    /* border: 2px solid; */
+    height: 120px; ;
+}
+#new h1{
+    /* border: 2px solid; */
+    
+    margin-top: 70px;
+    padding-left: 50px;
+}
+#section4{
+    /* border: 2px solid red; */
+    /* height: 500px; */
+    padding-left: 50px;
+}
+#season{
+    /* border: 2px solid blue; */
+    margin-top: 100px;
+    /* display: flex; */
+ 
+}
+#run{
+    /* border: 2px solid ; */
+    height: 50px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}
+#run button{
+    /* border: 0.5px solid; */
+    height: 40px;
+    width: 100px;
+}
+.shoes{
+    /* border: 2px solid; */
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 0%;
+    
+}
+.card{
+    
+    position: relative;
+}
+
+#whish{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.sp{
+    color: red;
+}
+.section5{
+/* border: 2px solid; */
+margin-top: 20px;
+}
+.hot{
+    /* border: 2px solid; */
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.webp{
+    /* border: 2px solid; */
+    margin-left: 30px;
+    display: flex;
+    /* margin-top: 100px; */
+}
+#section7{
+    /* border: 2px solid; */
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#footer{
+    /* border: 2px solid; */
+    margin-left: 30px;
+}
+#footnav{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #244496;
+    color: #ffff
+    ;
+}
+#cdn{
+    /* border: 2px solid; */
+    width: 100%;
+    background-color: #f8f8f8;
+}
+#Cloth{
+    /* border: 2px solid; */
+    display :flex;
+    width: 80%;
+}
+
+.access{
+     /* border: 2px solid; */
+     width: 250px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+#jsd{
+    /* border: 2px solid; */
+    width: 200px;
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 0px;
+}
+#Birla{
+    /* border: 2px solid; */
+    text-align: center;
+    font-size: 12px;
+}
+
+#big{
+    position: relative;
+    background-color: black;
+    color: #ffff;
+}
+#small{
+    border: 2px solid;
+    width: 45%;
+    height: 360px !important;
+    position: absolute;
+    top: 250px;
+    right: 20px;
+}
+.ene{
+    font-size: 12px;
+}
+
+
+
+
+
+
+    
